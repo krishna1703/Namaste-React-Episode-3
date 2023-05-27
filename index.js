@@ -24,7 +24,5 @@ const Krishna = () => {
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-const root1 = ReactDOM.createRoot(document.getElementById("root1"));
 
 root.render(<JsxHeading />);
-root1.render(<Krishna />);
